@@ -1,7 +1,5 @@
 package core;
 
-import core.Expression;
-
 public class Add implements Expression{
 	private Expression left_value;
 	private Expression right_value;
